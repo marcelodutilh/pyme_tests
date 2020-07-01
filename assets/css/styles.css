@@ -1,0 +1,36 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.hero-section .title {
+  font-size: 1.9em;
+}
+
+.main-section {
+  background-color: lightgray;
+}
+
+.sme-girl {
+  border-radius: 3px;
+  height: auto;
+  width: 100%;
+}
+
+.form {
+  background-color: lightgray;
+}
+
+.hazte-cliente-btn {
+  width: 50%;
+}
+
+h2 {
+  font-size: 1.7em;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=styles.css.map */
